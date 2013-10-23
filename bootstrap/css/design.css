@@ -1,0 +1,30 @@
+#seitenbereich {
+	width: 80%;
+	margin: 0 auto;
+	background-color: hsl(0,0%,85%);
+}
+
+header {
+	text-align: center;
+}
+
+#nav {
+	width: 10%;
+	padding-left: 0;
+	border: 5px solid red;
+}
+
+#inhalt {
+	width: 90%;
+	margin: 10%;
+	background-color: hsl(0,20%,80%);
+}
+
+#footer {
+	clear: both;
+	background-color: hsl(0,100%,100%);
+}
+
+h1 {
+	background-color:red;
+}
